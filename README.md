@@ -1,0 +1,2 @@
+# gradleEx
+A gradle excercise
